@@ -1,0 +1,5 @@
+{
+    "name": "Publish package to GitHub Packages",
+    "description": "Roxa publish package to GitHub Packages workflow.",
+    "iconName": "octicon<archive>"
+}
